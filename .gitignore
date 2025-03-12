@@ -7,3 +7,4 @@ data/*
 *.swp
 .ipynb_checkpoints
 .jupyter
+labs/lab7
